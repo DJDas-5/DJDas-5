@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Machine Learning, NLP and Generative AI projects<br>👯 Open to collaborating on AI/ML and real-world software projects<br>🤝 Interested in learning from and contributing to impactful AI projects<br>🌱 Currently exploring LLMs, RAG, Generative AI and Deep Learning<br>💬 Ask me about Python, Machine Learning, NLP, RAG and Generative AI<br>⚡ I enjoy building practical AI solutions from real-world problems
+🔭 Currently working on Machine Learning, NLP and Generative AI projects<br>🐣 Open to collaborating on AI/ML and real-world software projects<br>🤝 Interested in learning from and contributing to impactful AI projects<br>🌱 Currently exploring LLMs, RAG, Generative AI and Deep Learning<br>💬 Ask me about Python, Machine Learning, NLP, RAG and Generative AI<br>⚡ I enjoy building practical AI solutions from real-world problems
 
 
 ## 🌐 Socials:
